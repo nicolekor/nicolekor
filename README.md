@@ -2,17 +2,25 @@
 
 ## 1. 파이썬 🎰
 
-### - HTML 🥽
+### - HTML & CSS 🥽
 
 ### - Parcel & Web Scrolling 🎲
 
-## 2. SQL (Database) 🎫
-
+## 2. SQL (Database: Oracle, MySQL) 🎫
 
 ## 3. Multimedia 🎨
 
+## 4. BigData
+
+### - 빅데이터 전처리 및 분석
+
+### - 데이터 가공 및 시각화
+
+### - 인공지능 머신러닝/딥러닝
+
 _____________________________________________
 
+<!--
 # 🙌 이것은 첫번째 Markdown 파일 📅
 
 ## ❓ 오늘 배운 것 정리  
@@ -96,7 +104,7 @@ _____________________________________________
 
 ## Hi there 👋
 
-<!--
+
 **nicolekor/nicolekor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
