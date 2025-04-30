@@ -6,7 +6,11 @@
 
 ### - Parcel & Web Scrolling 
 
-## 2. SQL (Database: Oracle, MySQL) 🎫
+## 2. SQL 🎫
+
+### - Oracle
+
+### - MySQL
 
 ## 3. JAVA 🧶
 
