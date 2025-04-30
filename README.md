@@ -2,19 +2,19 @@
 
 ## 1. 파이썬 🎰
 
-### - HTML & CSS 🥽
+### - HTML & CSS & Django & PyCharm
 
-### - Parcel & Web Scrolling 🎲
+### - Parcel & Web Scrolling 
 
 ## 2. SQL (Database: Oracle, MySQL) 🎫
 
-## 3. JAVA
+## 3. JAVA 🧶
 
 ### - InteliJ IDEA
 
 ### - Eclipse
 
-## 4. BigData
+## 4. BigData 🧩
 
 ### - 빅데이터 전처리 및 분석
 
@@ -24,10 +24,14 @@
 
 ## 5. Multimedia 🎨
 
+
+
+
+
 _____________________________________________
 
 <!--
-# 🙌 이것은 첫번째 Markdown 파일 📅
+# 🙌 이것은 첫번째 Markdown 파일 📅  ⛓ 🎲
 
 ## ❓ 오늘 배운 것 정리  
 
