@@ -2,6 +2,8 @@
 
 ## 1. 파이썬 🎰
 
+### - Pytorch & openCV
+
 ### - HTML & CSS & Django & PyCharm
 
 ### - Parcel & Web Scrolling 
