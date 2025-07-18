@@ -2,7 +2,7 @@
 
 ## 1. 파이썬 🎰
 
-### - Pytorch & openCV
+### - Pytorch & openCV & Vue.js
 
 ### - HTML & CSS & Django & PyCharm
 
