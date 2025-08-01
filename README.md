@@ -4,6 +4,8 @@
 
 ### - Pytorch & openCV & Vue.js
 
+### - Fast API
+
 ### - HTML & CSS & Django & PyCharm
 
 ### - Parcel & Web Scrolling 
